@@ -44,7 +44,7 @@ In any case, you will directly see the generated frames since it is next-frame(-
 
 **Windows**:
 
-[>>> Click Here to Download One-Click Package (CUDA 12.6 + Pytorch 2.6) <<<](https://github.com/lllyasviel/FramePack/releases/download/windows/framepack_cu126_torch26.7z)
+[>>> Click Here to Download One-Click Package (CUDA 12.6 + Pytorch 2.6) <<<](https://github.com/7D7-Development/FramePack/releases/tag/windows)
 
 After you download, you uncompress, use `update.bat` to update, and use `run.bat` to run.
 
